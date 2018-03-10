@@ -1,0 +1,18 @@
+1. What is voltage?
+-  Potential energy stored in the form of an electric charge imbalance and capable of provoking electrons to flow through a conductor
+- in units of PE per unit charge of electrons. Specific potential energy
+- Quantity between 2 points
+
+2. What is resistance?
+- Opposition to electric current
+- Friction is generated
+
+3. Is a short circuit an example of a closed or open circuit?
+- Open
+
+4. How can you determine if a circuit is closed or open?
+- If there are no breaks, it is a closed circuit and has uninterrupted flow
+- If there are breaks, it is an open circuit
+
+5. Did you set up your computer to use the Feather?
+Yes
