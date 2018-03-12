@@ -1,7 +1,5 @@
-// the first section contains all the data variables we discussed
-// to keep track of the information we need to make the game work
-// the initial values are reset when initializePositions()
-// is called
+// Has sounds for starting the game, when the ball hits a paddle, when a player scores a point, and when the game is over (a player has reached 5 points).
+// Game ends when a player reaches 5 points.
 
 //preload sounds
 function preload() {
